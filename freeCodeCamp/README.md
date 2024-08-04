@@ -17,7 +17,7 @@ This folder contains my solutions to various Data Structures and Algorithms (DSA
 
 005. [**Move Zeroes to End of an Array**](./_005_problem.cpp)
 
-006. [**Resize an Array**](./_006_problem.cpp)
+006. [**Resize an Array**](./_006_problem.java)
 
 007. [**Find the Missing Number in an Array**](./_007_problem.cpp)
 
