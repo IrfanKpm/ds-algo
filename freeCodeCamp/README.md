@@ -25,7 +25,7 @@ This folder contains my solutions to various Data Structures and Algorithms (DSA
 
 009. [**Create a Singly Linked List**](./_009_problem.cpp)
 
-010. [**Print Elements of a Singly Linked List**](./_010_problem.cpp)
+010. [**Print Elements of a Singly Linked List**](./_009_problem.cpp)
 
 011. [**Find Length of a Singly Linked List**](./_011_problem.cpp)
 
